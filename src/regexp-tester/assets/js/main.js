@@ -13,6 +13,7 @@
 
             if(!pattern){
                 data.style.background = "";
+                result.innerHTML = '';
                 return;
             }
 
